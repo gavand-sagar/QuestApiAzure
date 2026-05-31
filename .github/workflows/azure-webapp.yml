@@ -7,7 +7,7 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: my-dotnet-api-sagar-delete
-  PROJECT_PATH: ./QuestApiAzure.csproj
+  PROJECT_PATH: sagar
 
 jobs:
   build-and-deploy:
