@@ -12,7 +12,7 @@ namespace QuestApiAzure.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2", "test" };
+            return new string[] { "value1", "value2", "test","test2" };
         }
 
         // GET api/<OrdersController>/5
